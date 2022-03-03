@@ -1,2 +1,2 @@
-# My-Web-Delelopmet-Portfolio
+# My Web Delelopmet Portfolio
  React - Tailwind CSS Portfolio Project
