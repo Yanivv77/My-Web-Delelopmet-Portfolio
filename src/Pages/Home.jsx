@@ -52,10 +52,10 @@ function Home() {
             <SiExpress size={180} color="black" className="w-full text-center mt-20 animate-bounce" />
             <FaReact size={180} color="#61DBFB" className="w-full text-center mt-20 animate-bounce" />
             <FaNodeJs size={180} color="#3C873A" className="w-full text-center mt-20 animate-bounce" />
-            <SiDotnet size={180} color="purple" className="w-full text-center mt-20 animate-bounce" />
-            <FaDocker size={180} color="#0db7ed" className="w-full text-center mt-20 animate-bounce" />
-            <SiKubernetes size={180} color="#047adc" className="w-full text-center mt-20 animate-bounce" />
-            <SiMicrosoftazure size={180} color="#008AD8" className="w-full text-center mt-20 animate-bounce" />
+            <SiDotnet size={180} color="purple" className="w-full text-center mt-20 " />
+            <FaDocker size={180} color="#0db7ed" className="w-full text-center mt-20 " />
+            <SiKubernetes size={180} color="#047adc" className="w-full text-center mt-20 " />
+            <SiMicrosoftazure size={180} color="#008AD8" className="w-full text-center mt-20 " />
           </div>
         </div>
 
@@ -67,7 +67,7 @@ function Home() {
             </h1>
           </div>
 
-          <div className="md:mx-5 mx-32 shadow-2xl bg-gray-50 -mt-20 rounded-lg hover:bg-theme hover:text-white">
+          <div className="md:mx-5 mx-32 shadow-2xl bg-gray-50 -mt-10 rounded-lg hover:bg-theme hover:text-white">
             <div className="h-96" data-aos="zoom-in">
               <lottie-player
                 src="https://assets5.lottiefiles.com/packages/lf20_3ntisyac.json"
