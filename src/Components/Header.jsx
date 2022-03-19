@@ -12,11 +12,6 @@ function Header() {
       title: 'Projects',
       key: '/projects',
     },
-
-    {
-      title: 'Contact',
-      key: '/contact',
-    },
   ]
 
   const pathname = window.location.pathname

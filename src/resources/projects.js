@@ -1,39 +1,24 @@
 const projectsData = [
   {
-    title: 'SHEYSHOP',
-    image: './ecommerce.svg',
-    description: 'An ecommerce application developed using react , node , redux and mongodb',
-    link: '/',
+    title: 'ProShop',
+    image: './Proshop.PNG',
+    link: 'https://github.com/Yanivv77/Mern-Stack-Ecommerce-Project',
   },
   {
-    title: 'SHEYPIZZA',
-    image: './ecommerce.svg',
-    description: 'An ecommerce application developed using react , node , redux and mongodb',
-    link: '/',
+    title: 'GoalsApp',
+    image: './YanivsGoalsApp.PNG',
+    link: 'https://github.com/Yanivv77/Mern-Project',
   },
   {
-    title: 'SHEYROOMS',
-    image: './ecommerce.svg',
-    description: 'An ecommerce application developed using react , node , redux and mongodb',
-    link: '/',
+    title: 'FeedbackApp',
+    image: './Feedback.PNG',
+    link: 'https://github.com/Yanivv77/React-feedback-app',
   },
+
   {
-    title: 'SHEYJOBS',
-    image: './ecommerce.svg',
-    description: 'An ecommerce application developed using react , node , redux and mongodb',
-    link: '/',
-  },
-  {
-    title: 'SHEYGRAM',
-    image: './ecommerce.svg',
-    description: 'An ecommerce application developed using react , node , redux and mongodb',
-    link: '/',
-  },
-  {
-    title: 'SHEYCARS',
-    image: './ecommerce.svg',
-    description: 'An ecommerce application developed using react , node , redux and mongodb',
-    link: '/',
+    title: 'SimpleBlog',
+    image: './SimpleBlog.PNG',
+    link: 'https://github.com/Yanivv77/Modern-React-Blog-Project',
   },
 ]
 

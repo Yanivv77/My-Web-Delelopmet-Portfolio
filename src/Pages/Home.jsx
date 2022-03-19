@@ -59,31 +59,6 @@ function Home() {
           </div>
         </div>
 
-        {/* {Javascript Buff} */}
-        <div className="my-20">
-          <div className="text-center h-52 bg-myred">
-            <h1 className="text-white font-bold text-4xl py-10">
-              Yes You Are Right... I like building Microservices with NodeJS and React
-            </h1>
-          </div>
-
-          <div className="md:mx-5 mx-32 shadow-2xl bg-gray-50 -mt-10 rounded-lg hover:bg-theme hover:text-white">
-            <div className="h-96" data-aos="zoom-in">
-              <lottie-player
-                src="https://assets5.lottiefiles.com/packages/lf20_3ntisyac.json"
-                background="transparent"
-                speed="1"
-                loop
-                autoplay
-              ></lottie-player>
-            </div>
-
-            <p className="text-xl my-5 font-semibold md:px-5 px-14 py-10">
-              Microservices are the number one solution for building and scaling out apps that are intended to grow
-            </p>
-          </div>
-        </div>
-
         {/* {Dev stack section} */}
         <div className="my-20">
           <div className="text-center h-52 bg-myred">
