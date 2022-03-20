@@ -1,6 +1,6 @@
-import React , {useEffect} from "react";
-import Footer from "./Footer";
-import Header from "./Header";
+import React, { useEffect } from 'react'
+import Footer from './Footer'
+import Header from './Header'
 
 function Layout({ children }) {
   useEffect(() => {
@@ -10,11 +10,11 @@ function Layout({ children }) {
     <div>
       <Header />
 
-      <div className="content font-mont">{children}</div>
+      <div className="content font-mont">key="{children}"</div>
 
       <Footer />
     </div>
-  );
+  )
 }
 
-export default Layout;
+export default Layout

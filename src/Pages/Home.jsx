@@ -48,14 +48,14 @@ function Home() {
             Technologies I USE
           </h1>
           <div className="grid md:grid-cols-1 grid-cols-4">
-            <SiMongodb size={180} color="#589636" className="w-full text-center mt-20 animate-bounce" />
-            <SiExpress size={180} color="black" className="w-full text-center mt-20 animate-bounce" />
-            <FaReact size={180} color="#61DBFB" className="w-full text-center mt-20 animate-bounce" />
-            <FaNodeJs size={180} color="#3C873A" className="w-full text-center mt-20 animate-bounce" />
-            <SiDotnet size={180} color="purple" className="w-full text-center mt-20 " />
-            <FaDocker size={180} color="#0db7ed" className="w-full text-center mt-20 " />
-            <SiKubernetes size={180} color="#047adc" className="w-full text-center mt-20 " />
-            <SiMicrosoftazure size={180} color="#008AD8" className="w-full text-center mt-20 " />
+            <SiMongodb size={90} color="#589636" className="w-full text-center mt-20 animate-bounce" />
+            <SiExpress size={90} color="black" className="w-full text-center mt-20 animate-bounce" />
+            <FaReact size={90} color="#61DBFB" className="w-full text-center mt-20 animate-bounce" />
+            <FaNodeJs size={90} color="#3C873A" className="w-full text-center mt-20 animate-bounce" />
+            <SiDotnet size={90} color="purple" className="w-full text-center mt-20 " />
+            <FaDocker size={90} color="#0db7ed" className="w-full text-center mt-20 " />
+            <SiKubernetes size={90} color="#047adc" className="w-full text-center mt-20 " />
+            <SiMicrosoftazure size={90} color="#008AD8" className="w-full text-center mt-20 " />
           </div>
         </div>
 
@@ -65,7 +65,7 @@ function Home() {
             <h1 className="text-white font-bold text-4xl py-10">My DEV Stack</h1>
           </div>
 
-          <div className="md:mx-5 mx-32 shadow-2xl bg-gray-50 -mt-20 rounded-lg hover:bg-theme hover:text-white">
+          <div className="md:mx-5 mx-32 shadow-2xl bg-gray-50 -mt-20 rounded-lg ">
             <div className="h-96" data-aos="zoom-in">
               <lottie-player
                 src="https://assets6.lottiefiles.com/packages/lf20_dlw10cqe.json"
