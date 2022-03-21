@@ -10,6 +10,11 @@ const projectsData = [
     link: 'https://github.com/Yanivv77/Mern-Project',
   },
   {
+    title: 'Redux Weather API',
+    image: './WeatherApi.PNG',
+    link: 'https://github.com/Yanivv77/My-Web-Delelopmet-Portfolio',
+  },
+  {
     title: 'FeedbackApp',
     image: './Feedback.PNG',
     link: 'https://github.com/Yanivv77/React-feedback-app',
