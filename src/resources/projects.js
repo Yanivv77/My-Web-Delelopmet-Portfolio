@@ -12,7 +12,7 @@ const projectsData = [
   {
     title: 'Redux Weather API',
     image: './WeatherApi.PNG',
-    link: 'https://github.com/Yanivv77/My-Web-Delelopmet-Portfolio',
+    link: 'https://github.com/Yanivv77/WeatherAPI-redux',
   },
   {
     title: 'FeedbackApp',
