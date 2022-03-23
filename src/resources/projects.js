@@ -1,11 +1,17 @@
 const projectsData = [
   {
-    title: 'ProShop',
+    title: 'Microservices Blog',
+    image: './Microservices-Blog.PNG',
+    link: 'https://github.com/Yanivv77/Microservices-Blog',
+  },
+
+  {
+    title: 'MERN ProShop ',
     image: './Proshop.PNG',
     link: 'https://github.com/Yanivv77/Mern-Stack-Ecommerce-Project',
   },
   {
-    title: 'GoalsApp',
+    title: 'MERN GoalsApp',
     image: './YanivsGoalsApp.PNG',
     link: 'https://github.com/Yanivv77/Mern-Project',
   },
@@ -15,13 +21,13 @@ const projectsData = [
     link: 'https://github.com/Yanivv77/WeatherAPI-redux',
   },
   {
-    title: 'FeedbackApp',
+    title: 'React FeedbackApp',
     image: './Feedback.PNG',
     link: 'https://github.com/Yanivv77/React-feedback-app',
   },
 
   {
-    title: 'SimpleBlog',
+    title: 'React SimpleBlog',
     image: './SimpleBlog.PNG',
     link: 'https://github.com/Yanivv77/Modern-React-Blog-Project',
   },
