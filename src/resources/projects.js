@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'World Trivia Battle',
+    image: './TriviaBattle.PNG',
+    link: 'https://github.com/Yanivv77/Location-based-trivia-battle-game',
+  },
+
+  {
     title: 'Microservices Blog',
     image: './Microservices-Blog.PNG',
     link: 'https://github.com/Yanivv77/Microservices-Blog',
