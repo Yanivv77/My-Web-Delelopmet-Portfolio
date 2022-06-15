@@ -1,5 +1,10 @@
 const projectsData = [
   {
+    title: 'NextJs & Strapi Events App',
+    image: './Events.PNG',
+    link: 'https://github.com/Yanivv77/My-events-app-frontend',
+  },
+  {
     title: 'World Trivia Battle',
     image: './TriviaBattle.PNG',
     link: 'https://github.com/Yanivv77/Location-based-trivia-battle-game',
