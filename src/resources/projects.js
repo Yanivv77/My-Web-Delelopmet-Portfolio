@@ -1,9 +1,10 @@
 const projectsData = [
   {
-    title: 'NextJs & Strapi Events App',
-    image: './Events.PNG',
-    link: 'https://github.com/Yanivv77/My-events-app-frontend',
+    title: 'Management-App-GraphQL',
+    image: './GraphQL.PNG',
+    link: 'https://github.com/Yanivv77/Project-Management-App-GraphQL',
   },
+
   {
     title: 'World Trivia Battle',
     image: './TriviaBattle.PNG',
@@ -21,6 +22,12 @@ const projectsData = [
     image: './Proshop.PNG',
     link: 'https://github.com/Yanivv77/Mern-Stack-Ecommerce-Project',
   },
+  {
+    title: 'NextJs & Strapi Events App',
+    image: './Events.PNG',
+    link: 'https://github.com/Yanivv77/My-events-app-frontend',
+  },
+
   {
     title: 'MERN GoalsApp',
     image: './YanivsGoalsApp.PNG',
