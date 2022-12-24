@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'MERN ProShop ',
+    image: './Proshop.PNG',
+    link: 'https://github.com/Yanivv77/Mern-Stack-Ecommerce-Project',
+  },
+
+  {
     title: 'Management-App-GraphQL',
     image: './GraphQL.PNG',
     link: 'https://github.com/Yanivv77/Project-Management-App-GraphQL',
@@ -15,12 +21,6 @@ const projectsData = [
     title: 'Microservices Blog',
     image: './Microservices-Blog.PNG',
     link: 'https://github.com/Yanivv77/Microservices-Blog',
-  },
-
-  {
-    title: 'MERN ProShop ',
-    image: './Proshop.PNG',
-    link: 'https://github.com/Yanivv77/Mern-Stack-Ecommerce-Project',
   },
   {
     title: 'NextJs & Strapi Events App',
